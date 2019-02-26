@@ -1,1 +1,1 @@
-# test
+# test bad config
